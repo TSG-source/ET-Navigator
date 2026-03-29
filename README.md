@@ -27,7 +27,7 @@ An AI-native business news experience featuring personalized newsrooms, interact
 
 - Node.js (v18 or higher)
 - npm or yarn
-- A Gemini API Key (get one at [ai.google.dev](https://ai.google.dev/))
+- A Gemini API Key
 
 ### Installation
 
