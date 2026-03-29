@@ -1,4 +1,4 @@
-# Pulse AI: The Intelligent Newsroom
+# ET Navigator: The Intelligent Newsroom
 
 An AI-native business news experience featuring personalized newsrooms, interactive intelligence briefings, and story arc tracking. Pulse AI synthesizes thousands of sources to deliver a specific, high-signal news edge tailored to your persona.
 
